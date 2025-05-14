@@ -65,7 +65,7 @@
 <body>
 
   <header>
-    <h1>All Hail the Queen: $FLOPE</h1>
+    <h1>:What Happens When $FLOKI and $PEPE Merge?.”FLOPE</h1>
     <p>The meme coin royalty has arrived. Join the revolution before the throne is full.</p>
     <a href="#community" class="btn">Join the Court</a>
   </header>
